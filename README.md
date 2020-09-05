@@ -1,0 +1,1 @@
+# shamandok_bot_test
